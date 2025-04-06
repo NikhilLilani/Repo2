@@ -1,0 +1,5 @@
+2025/03/09-15:54:26.204 5488 Reusing MANIFEST C:\Automation workspace\Maven_1\EdgeUserData\Default\Asset Store\assets.db/MANIFEST-000001
+2025/03/09-15:54:26.210 5488 Recovering log #4
+2025/03/09-15:54:26.212 5488 Level-0 table #6: started
+2025/03/09-15:54:26.222 5488 Level-0 table #6: 375924 bytes OK
+2025/03/09-15:54:26.230 5488 Delete type=0 #4
