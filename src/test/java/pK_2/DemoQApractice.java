@@ -114,7 +114,7 @@ public class DemoQApractice
 		Thread.sleep(1000);
 		ss.takePageScreenshot_onPass(driver, "formaftersubmit");
 		Thread.sleep(1000);
-		
+		//Git Changes by divya
 		driver.close();	
   }
   @DataProvider
